@@ -1,4 +1,3 @@
-Genreative art created with p5.js 
+Generative art created with p5.js
 
-GitHub page to see result: https://tizcreel.github.io/DrawGray/gray/
-
+GitHub page to see the result: https://tizcreel.github.io/DrawGray/gray/
